@@ -17,3 +17,6 @@ Para ello, la aplicación dispondrá de:
 - Un inventario de las materias primas disponibles en el almacén en el momento de la consulta. Esto persigue mejorar la comunicación entre el jefe de almacén y los trabajadores de compras y ventas. *Se consigue implementando una base de datos.*
 - Un consumo medio de las materias por época del año, permitiendo preveer con mayor precisión cúando habrá que comprar X material/alimento y la cantidad de productos que se pueden producir, evitando así su desabastecimiento/excedente y optimizando el espacio libre en almacén. *Se consigue implementando funciones de cálculo estadístico.*
 - Estadísticas de proveedores. Para ayudar al trabajador a elegir el proveedor en función de las necesidades de la empresa; p. ej: El más barato o el más rápido en función de la urgencia que haya por comprar/vender. Al igual que antes, *se consigue implementando funciones de cálculo estadístico.*
+
+### Configuración para el objetivo 0
+[Documento con imágenes de configuración](Configuraciones/Images.md)
