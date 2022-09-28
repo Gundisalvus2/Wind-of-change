@@ -1,22 +1,21 @@
 # Wind-of-change
 
 
-A raíz de las noticias de este pasado verano donde se exponía la mala situación de los bancos de alimentos, que sufrían desabastecimiento de frutas y excedente de alimentos no perecederos tales como legumbres o cereales, surge el problema al que intento enfrentarme.
-
 ### Problema
-El **desabastecimiento** y el **excedente** de materias primas en fabricantes/empresas que pueden sufrir de una mala comunicación entre el departamento de compras, ventas y el jefe de almacén, y que provocan el bloqueo de la cadena de producción.
+Hoy en día, debido a diversos factores tales como el sedentarismo, los malos hábitos alimenticios o las redes sociales, una gran parte de la población desarrollan problemas de salud relacionados con la ingesta de comida. En 2020, alrededor del 40% de la población mundial sufría sobrepeso, y un 13% eran obesos. Entre el 5 y el 10% de la población con edades comprendidas entre los 12 y los 25 años sufren algún tipo de TCA tales como bulimia o la anorexia.
+Ya sea por desgana, desconocimiento o por imposibilidad, la mayoría de la gente no lleva una alimentación saludable. Por ello, se pretende crear una aplicación en la nube que sea accesible para todo el mundo y que facilite estos hábitos.
 
 ### Posibles Usuarios
-El usuario final sería la empresa y sus correspondientes empleados de los departamentos mencionados. Dichas empresas pueden ser desde fabricantes de productos tales como radiadores, muebles, aires acondicionados... hasta bares y hoteles.
+Toda aquella persona que desee llevar una vida más saludable y que esté interesado en mejorar su alimentación.
 
 ### Descripción de la aplicación
-Creación de una aplicación desplegada en la nube para evitar el desabastecimiento/excedente de materias primas, maximizando el almacenamiento disponible y mejorando la comunicación entre los trabajadores y facilitando sus tareas.
+Creación de una aplicación desplegada en la nube que genere una dieta en función de una serie de cálculos y parámetros.
 
-Para ello, la aplicación dispondrá de:
+Primero calculará la Tasa Metabólica Basal (**BMR** en inglés) para ver la cantidad de calorías que debería de consumir el usuario si estuviese 24h en reposo y luego obtendrá, aplicando la fórmula de Harris-Benedict, una estimación de las calorías que debe de consumir suponiendo que se hace una actividad física.
 
-- Un inventario de las materias primas disponibles en el almacén en el momento de la consulta. Esto persigue mejorar la comunicación entre el jefe de almacén y los trabajadores de compras y ventas. *Se consigue implementando una base de datos.*
-- Un consumo medio de las materias por época del año, permitiendo preveer con mayor precisión cúando habrá que comprar X material/alimento y la cantidad de productos que se pueden producir, evitando así su desabastecimiento/excedente y optimizando el espacio libre en almacén. *Se consigue implementando funciones de cálculo estadístico.*
-- Estadísticas de proveedores. Para ayudar al trabajador a elegir el proveedor en función de las necesidades de la empresa; p. ej: El más barato o el más rápido en función de la urgencia que haya por comprar/vender. Al igual que antes, *se consigue implementando funciones de cálculo estadístico.*
+A partir de ahí, el usuario podrá indicar a qué tipo de alimentos es alérgico, cuáles prefiere no comer o cuántas ingestas puede realizar, entre otras opciones y la aplicación tratará de crear una dieta saludable adaptada a las calorías necesarias y teniendo en cuenta las preferencias del usuario.
+
+La aplicación considerará los macronutrientes de cada alimento así como sus calorías, y se almacenará en una base de datos cada plato con sus respectivos valores nutricionales.
 
 ### Configuración para el objetivo 0
 [Documento con imágenes de configuración](Configuraciones/Images.md)
