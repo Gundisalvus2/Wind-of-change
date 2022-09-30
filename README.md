@@ -4,10 +4,13 @@
 ### Problema
 Hoy en día, debido a diversos factores tales como el sedentarismo, los malos hábitos alimenticios o las redes sociales, una gran parte de la población desarrollan problemas de salud relacionados con la ingesta de comida. En 2020, alrededor del 40% de la población mundial sufría sobrepeso, y un 13% eran obesos. Entre el 5 y el 10% de la población con edades comprendidas entre los 12 y los 25 años sufren algún tipo de TCA tales como bulimia o la anorexia.
 
-Ya sea por desgana, desconocimiento o por imposibilidad, la mayoría de la gente no lleva una alimentación saludable. Por ello, se pretende crear una aplicación en la nube que sea accesible para todo el mundo y que facilite estos hábitos.
+Está estadísticamente demostrado que las personas con menos poder adquisitivo suelen tener una mala alimentación, unos por la imposibilidad de comprar alimentos saludables o de calidad y otros por las dificultades que tienen a la hora de permitirse a un profesional. 
+
+Es a estos últimos a los que se puede y se trata de ayudar con esta aplicación web, brindándoles los mismos conocimientos y recomendaciones que puede dar un titulado en nutrición. 
 
 ### Posibles Usuarios
-Toda aquella persona que desee llevar una vida más saludable y que esté interesado en mejorar su alimentación.
+Personas con pocos recursos económicos, incapaces de permitirse un nutricionista y/o un dietista y que desean o necesitan mejorar su alimentación. 
+Estos se verán beneficiados al tener más facilidades para acceder a una alimentación sana y equilibrada. Por supuesto, el seguimiento de estas recomendaciones dependerá única y exclusivamente del usuario, pero en caso de cumplirlas se garantiza la mejoría en la nutrición. 
 
 ### Descripción de la aplicación
 Creación de una aplicación desplegada en la nube que genere una dieta en función de una serie de cálculos y parámetros que se explican a continuación:
