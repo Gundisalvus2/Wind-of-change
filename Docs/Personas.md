@@ -7,7 +7,7 @@ No obstante, Ramona quiere dar un vuelco a su vida, ha hecho cuentas y puede per
 
 ## Usuario 2:
 
-**María Pereira Valerón** no es más que una humilde señora gallega que a sus 50 años se gana el pan como *percebeira* en las costas de *'A Coruña'* porque cree que no le va a quedar pensión. Hace unos meses sufrió un accidente que le mantuvo alejada de las rocas, y desde entonces cogió un poco de peso. María quiere aprovechar ahora que no es temporada para ponerse un poco en forma y perder esos *'kilillos'* de más. **Sabe defenderse con las tecnologías y está tratando de buscar una aplicación que le proporcione una dieta equilibrada que le permita adelgazar.**
+**María Pereira Valerón** no es más que una humilde señora gallega que a sus 50 años se gana el pan como *percebeira* en las costas de *'A Coruña'* porque cree que no le va a quedar pensión. Hace unos meses sufrió un accidente que le mantuvo alejada de las rocas, y desde entonces cogió un poco de peso. María quiere aprovechar ahora que no es temporada para ponerse un poco en forma y perder esos *'kilillos'* de más. **Sabe defenderse con las tecnologías y está tratando de buscar una aplicación que le proporcione una dieta equilibrada y sana.**
 
 ## Usuario 3:
 
