@@ -21,5 +21,12 @@ A continuación, se procede a la creación de una dieta saludable. Para ello, el
 
 **Todos los datos** de los alimentos se obtendrán de bancos de datos, como por ejemplo el del [Departamento de Agricultura de los EE.UU. ](https://fdc.nal.usda.gov/download-datasets.html)
 
-### Configuración para el objetivo 0
+### Configuración para el Objetivo 0
 [Documento con imágenes de configuración](Configuraciones/Images.md)
+
+### Documentos para el Objetivo 1
+- [Descripción de los usuarios del sistema](Docs/Personas.md)
+- [Historias de usuario](Docs/HistoriasDeUsuario.md) (También están en Issues marcadas con el Tag *user-stories*)
+- [Milestones](Docs/Milestones.md)
+
+Todos ellos se encuentran en el directorio [Docs](Docs/)
