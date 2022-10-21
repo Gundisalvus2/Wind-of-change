@@ -6,12 +6,12 @@ Realización de uno o varios módulos en un lenguaje de programación donde esta
 Dichos módulos han de poder compilar sin errores
 
 ## Milestone 1 [M01]
-**Asociado a [HU01](https://github.com/Gundisalvus2/Wind-of-change/issues/2)** <br/>
+**Sin [HU] asociadas**<br/>
 Implementación de la estructura de datos y creación de un fichero compilable que permita calcular el IMC y el BMR del usuario en función de unos parámetros.
 
 ## Milestone 2 [M02]
 **Asociado a [HU01](https://github.com/Gundisalvus2/Wind-of-change/issues/2)** <br/>
-Creación y configuración de la BD, implementación de módulos para crear usuarios e iniciar y cerrar sesión y para sugerir alimentos extraidos de la BD.<br/>
+Creación y configuración de la BD, implementación de módulos para crear usuarios e iniciar y cerrar sesión y para sugerir alimentos extraídos de la BD.<br/>
 Tras completar este hito se tendrá un programa en fase alpha que permitirá calcular el IMC y el BMR y sugerir alimentos saludables.
 
 ## Milestone 3 [M03]
