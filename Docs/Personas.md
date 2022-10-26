@@ -11,7 +11,7 @@ Ramona sostiene que la usaría con bastante frecuencia, unos 3 días a la semana
 
 **María Pereira Valerón** no es más que una humilde señora gallega que a sus 50 años se gana el pan como *percebeira* en las costas de *'A Coruña'* porque cree que no le va a quedar pensión. Hace unos meses sufrió un accidente que le mantuvo alejada de las rocas, y desde entonces cogió un poco de peso. María quiere aprovechar ahora que no es temporada para ponerse un poco en forma y perder esos *'kilillos'* de más. **Sabe defenderse con las tecnologías y está tratando de buscar una aplicación que le proporcione una dieta equilibrada y sana.**
 
-*'¿Yo? Pues creo que solo la usaría una vez, para crear la dieta y ya'* nos dijo María cuando le preguntamos por la frecuencia de uso. También sostiene que probablemente acceda desde el ordenador de casa. *'A ver si me acuerdo, pongo los datos que me pida y le doy a crear dieta, ¿solo eso?'*
+*'¿Yo? Pues creo que solo la usaría una vez, para crear la dieta y ya'* nos dijo María cuando le preguntamos por la frecuencia de uso. También comentó que probablemente acceda desde el ordenador de casa. *'A ver si me acuerdo, pongo los datos que me pida y le doy a crear dieta, ¿solo eso?'*
 
 ## Usuario 3:
 
