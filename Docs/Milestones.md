@@ -2,8 +2,8 @@
 
 ## Milestone 0 [M00]
 **Sin [HU] asociadas**<br/>
-Realización de uno o varios módulos en un lenguaje de programación donde estará definida tanto la estructura de datos que se va a usar como su interfaz.
-Dichos módulos han de poder compilar sin errores
+Con tal de poder representar el modelo del problema adecuadamente, se realizarán uno o varios módulos donde estarán definidas tanto la estructura de datos que se va a usar como su interfaz.
+Dichos módulos han de poder compilar sin errores.
 
 ## Milestone 1 [M01]
 **Sin [HU] asociadas**<br/>
@@ -25,9 +25,6 @@ Implementación de algoritmos para maximizar o minimizar el consumo de ciertos m
 Configuración de las búsquedas de la BD para admitir restricciones.
 A la conclusión del hito, habrá una beta del producto final que se corresponda con la lógica de negocio y capaz de satisfacer los deseos expresados por los usuarios.
 
-## Milestone 5 [M05]
-**Sin [HU] asociadas**<br/>
-Corrección de errores mayores, obteniendo el producto final en fase estable.
 
 
 
